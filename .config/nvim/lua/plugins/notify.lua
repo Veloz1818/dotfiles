@@ -11,5 +11,4 @@ return{
         "rcarriga/nvim-notify",
     },
 
-    require("noice").setup()
 }
